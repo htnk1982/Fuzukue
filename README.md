@@ -1,12 +1,8 @@
 # Fuzukue (文机)
 
-![Fuzukue logo](app/img/logo.png)
-
 **A print-first Japanese word processor with the feel of a dedicated word-processing machine.**
 
 Fuzukue (ふづくえ, *writing desk*) composes documents on a page defined by a fixed **number of characters × number of lines**. Instead of placing floating text boxes on a canvas, you write directly into a grid, draw rules, arrange headings and tables, and print the result. Its design brings the focused workflow of classic Japanese word processors to Windows.
-
-[日本語版 README](README.ja.md)
 
 > **Version:** `1.0.10c.1-alpha`  
 > **Platform:** Windows 10 / 11  
